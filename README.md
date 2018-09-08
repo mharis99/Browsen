@@ -7,16 +7,11 @@ A lightweight Android library for customizable web views
 ## Download
 Grab via Gradle:
 ```java
-compile 'com.haris.browsen:browsen:1.0'
+
 ```
 Or Maven:
 ```java
-<dependency>
-  <groupId>com.haris.browsen</groupId>
-  <artifactId>browsen</artifactId>
-  <version>1.0</version>
-  <type>pom</type>
-</dependency>
+
 ``` 
 ## Usage
 #### Default:
